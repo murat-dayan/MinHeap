@@ -2,6 +2,9 @@ package minheap;
 
 import java.util.Scanner;
 
+// MURAT DAYAN 
+// 02190201013
+
 public class MinHeap {
 
     // Dizi min heap mi değil mi kontrol eder
